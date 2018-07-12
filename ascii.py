@@ -108,7 +108,7 @@ class converter():
             color = Fore.RED
 
         # v, s에 따라 검정, 흰색으로 변경
-        if v >= 0.75 or s <= 0.25:
+        if v >= 0.7 and s <= 0.25:
             color = Fore.WHITE
 
         if v <= 0.25:

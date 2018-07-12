@@ -36,6 +36,12 @@ python ascii.py "./test-images/test.jpg" -color
 ```
 
 <img src="./color_mode.png">
+<hr>
+
+```bash
+python ascii.py "./test-images/git.png" -color
+```
+<img src="./color_mode_2.png">
 
 ## 정보
 - 개발자: [Leegeunhyeok](https://github.com/leegeunhyeok)
