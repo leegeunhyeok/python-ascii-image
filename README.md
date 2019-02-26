@@ -24,7 +24,7 @@ python ascii.py "이미지 경로" -옵션
 python ascii.py "./test-images/test.jpg"
 
 # 위와 같은 결과
-pythob ascii.py "./test-images/test.jpg" -grey
+python ascii.py "./test-images/test.jpg" -grey
 ```
 
 <img src="./grey_mode.png">
